@@ -1,7 +1,7 @@
-package com.ecomerce.controller;
+package com.ecommerce.controller;
 
-import com.ecomerce.service.CategoryService;
-import com.ecomerce.service.ProductService;
+import com.ecommerce.service.CategoryService;
+import com.ecommerce.service.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

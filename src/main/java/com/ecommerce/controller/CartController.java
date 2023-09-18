@@ -1,8 +1,8 @@
-package com.ecomerce.controller;
+package com.ecommerce.controller;
 
-import com.ecomerce.global.GlobalData;
-import com.ecomerce.model.Product;
-import com.ecomerce.service.ProductService;
+import com.ecommerce.global.GlobalData;
+import com.ecommerce.model.Product;
+import com.ecommerce.service.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

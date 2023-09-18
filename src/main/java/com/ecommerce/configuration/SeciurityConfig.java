@@ -1,6 +1,6 @@
-package com.ecomerce.configuration;
+package com.ecommerce.configuration;
 
-import com.ecomerce.service.CustomUserDetailService;
+import com.ecommerce.service.CustomUserDetailService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

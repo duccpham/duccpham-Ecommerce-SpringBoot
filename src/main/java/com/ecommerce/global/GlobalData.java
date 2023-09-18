@@ -1,6 +1,6 @@
-package com.ecomerce.global;
+package com.ecommerce.global;
 
-import com.ecomerce.model.Product;
+import com.ecommerce.model.Product;
 
 import java.util.ArrayList;
 import java.util.List;

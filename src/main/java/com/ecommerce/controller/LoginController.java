@@ -1,9 +1,9 @@
-package com.ecomerce.controller;
-import com.ecomerce.model.Role;
-import com.ecomerce.model.User;
-import com.ecomerce.repository.RoleRepository;
-import com.ecomerce.repository.UserRepository;
-import com.ecomerce.global.GlobalData;
+package com.ecommerce.controller;
+import com.ecommerce.model.Role;
+import com.ecommerce.model.User;
+import com.ecommerce.repository.RoleRepository;
+import com.ecommerce.repository.UserRepository;
+import com.ecommerce.global.GlobalData;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Controller;

@@ -1,8 +1,8 @@
-package com.ecomerce.service;
+package com.ecommerce.service;
 
-import com.ecomerce.model.User;
-import com.ecomerce.model.CustomUserDetail;
-import com.ecomerce.repository.UserRepository;
+import com.ecommerce.model.User;
+import com.ecommerce.model.CustomUserDetail;
+import com.ecommerce.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;

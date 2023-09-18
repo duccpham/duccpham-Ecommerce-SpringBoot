@@ -1,6 +1,6 @@
-package com.ecomerce.repository;
+package com.ecommerce.repository;
 
-import com.ecomerce.model.Product;
+import com.ecommerce.model.Product;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

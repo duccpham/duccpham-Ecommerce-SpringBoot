@@ -1,4 +1,4 @@
-package com.ecomerce.model;
+package com.ecommerce.model;
 
 
 import lombok.Data;

@@ -1,9 +1,9 @@
-package com.ecomerce.configuration;
+package com.ecommerce.configuration;
 
-import com.ecomerce.model.Role;
-import com.ecomerce.model.User;
-import com.ecomerce.repository.UserRepository;
-import com.ecomerce.repository.RoleRepository;
+import com.ecommerce.model.Role;
+import com.ecommerce.model.User;
+import com.ecommerce.repository.UserRepository;
+import com.ecommerce.repository.RoleRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.Authentication;
 import org.springframework.security.oauth2.client.authentication.OAuth2AuthenticationToken;
